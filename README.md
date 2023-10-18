@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **React and Java**
 
+[![@sameer1612's Holopin board](https://holopin.me/abhinabchoudhury)](https://www.holopin.io/@abhinabchoudhury)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhinabc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinabc_" height="30" width="40" /></a>
