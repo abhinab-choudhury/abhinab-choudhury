@@ -6,19 +6,19 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## What I’m currently working on
 
+- [abhinab-choudhury/portfolio](https://github.com/abhinab-choudhury/portfolio) - My Personal Portfolio (today)
 - [abhinab-choudhury/Crop-AI](https://github.com/abhinab-choudhury/Crop-AI) - Hackathon | SIH 2025 | SIH25030  | "AI-powered crop diagnosis, disease detection, and multilingual farming assistant - empowering farmers with real-time, offline-ready agricultural insights." (1 day ago)
-- [abhinab-choudhury/Pizza-Shop](https://github.com/abhinab-choudhury/Pizza-Shop) -  (3 days ago)
-- [abhinab-choudhury/portfolio](https://github.com/abhinab-choudhury/portfolio) - My Personal Portfolio (1 week ago)
+- [abhinab-choudhury/Pizza-Shop](https://github.com/abhinab-choudhury/Pizza-Shop) - A full-stack pizza ordering platform built with a microservices architecture (3 days ago)
 - [abhinab-choudhury/ShortWave](https://github.com/abhinab-choudhury/ShortWave) - "Shortwave, native to your pocket." The same URL shortener and analytics dashboard, packaged as a real Android app via Capacitor 8, with JWT-only auth and email-OTP sign-in so you never leave the app. (1 week ago)
 - [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) - Kotlin Multiplatform App |  Laundry Management System (LMS) (1 week ago)
 
 ## My latest projects
 
 - [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) - Kotlin Multiplatform App |  Laundry Management System (LMS)
-- [abhinab-choudhury/Movie-App](https://github.com/abhinab-choudhury/Movie-App) - 
-- [abhinab-choudhury/Chess-App](https://github.com/abhinab-choudhury/Chess-App) - 
 - [abhinab-choudhury/Top-Vs-Top](https://github.com/abhinab-choudhury/Top-Vs-Top) - Top Vs Top Arena is a fast-paced spinning top battle game. Survive waves of enemy tops in a circular arena. Keep your spin alive to stay in the fight!
-- [abhinab-choudhury/cpp-api](https://github.com/abhinab-choudhury/cpp-api) - 
+- [abhinab-choudhury/WorkerQueue](https://github.com/abhinab-choudhury/WorkerQueue) - A Distributed Background Task Processing System
+- [abhinab-choudhury/Overleaf-App](https://github.com/abhinab-choudhury/Overleaf-App) - Unofficial Overleaf App
+- [abhinab-choudhury/sql](https://github.com/abhinab-choudhury/sql) - SQL - DB
 
 ## Latest releases I’ve contributed to
 
@@ -38,11 +38,11 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## Recent stars
 
-- [abhinab-choudhury/cpp-api](https://github.com/abhinab-choudhury/cpp-api) -  (1 week ago)
 - [abhinab-choudhury/codexpert](https://github.com/abhinab-choudhury/codexpert) - AI Assistant to solve. This is a Chrome extension built with React and TypeScript (1 week ago)
 - [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) - Kotlin Multiplatform App |  Laundry Management System (LMS) (1 week ago)
-- [abhinab-choudhury/Pizza-Shop](https://github.com/abhinab-choudhury/Pizza-Shop) -  (1 week ago)
-- [abhinab-choudhury/Chess-App](https://github.com/abhinab-choudhury/Chess-App) -  (1 week ago)
+- [abhinab-choudhury/Pizza-Shop](https://github.com/abhinab-choudhury/Pizza-Shop) - A full-stack pizza ordering platform built with a microservices architecture (1 week ago)
+- [abhinab-choudhury/Top-Vs-Top](https://github.com/abhinab-choudhury/Top-Vs-Top) - Top Vs Top Arena is a fast-paced spinning top battle game. Survive waves of enemy tops in a circular arena. Keep your spin alive to stay in the fight! (1 week ago)
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options (2 weeks ago)
 
 ## How to reach me
 
