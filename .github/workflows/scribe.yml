@@ -1,0 +1,53 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/scribe.yml"
+      - "templates/README.md.tpl"
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: stable
+
+      - name: Build Markscribe
+        run: |
+          git clone --depth 1 --branch fix-graphql-resource-limits https://github.com/danielgatis/markscribe /tmp/markscribe
+          go build -C /tmp/markscribe -o /tmp/markscribe/markscribe .
+
+      - name: Generate README
+        run: /tmp/markscribe/markscribe -write README.md templates/README.md.tpl
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+
+      - name: Commit README
+        uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Update generated README
+          branch: main
+          commit_user_name: readme-scribe
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe <actions@github.com>
+          file_pattern: README.md
