@@ -6,11 +6,11 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## What I’m currently working on
 
-- [abhinab-choudhury/portfolio](https://github.com/abhinab-choudhury/portfolio) - My Personal Portfolio (today)
-- [abhinab-choudhury/Crop-AI](https://github.com/abhinab-choudhury/Crop-AI) - Hackathon | SIH 2025 | SIH25030  | "AI-powered crop diagnosis, disease detection, and multilingual farming assistant - empowering farmers with real-time, offline-ready agricultural insights." (1 day ago)
-- [abhinab-choudhury/Pizza-Shop](https://github.com/abhinab-choudhury/Pizza-Shop) - A full-stack pizza ordering platform built with a microservices architecture (3 days ago)
-- [abhinab-choudhury/ShortWave](https://github.com/abhinab-choudhury/ShortWave) - "Shortwave, native to your pocket." The same URL shortener and analytics dashboard, packaged as a real Android app via Capacitor 8, with JWT-only auth and email-OTP sign-in so you never leave the app. (1 week ago)
-- [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) - Kotlin Multiplatform App |  Laundry Management System (LMS) (1 week ago)
+- [abhinab-choudhury/portfolio](https://github.com/abhinab-choudhury/portfolio) - My Personal Portfolio (1 day ago)
+- [abhinab-choudhury/Crop-AI](https://github.com/abhinab-choudhury/Crop-AI) - Hackathon | SIH 2025 | SIH25030  | "AI-powered crop diagnosis, disease detection, and multilingual farming assistant - empowering farmers with real-time, offline-ready agricultural insights." (2 days ago)
+- [abhinab-choudhury/Pizza-Shop](https://github.com/abhinab-choudhury/Pizza-Shop) - A full-stack pizza ordering platform built with a microservices architecture (4 days ago)
+- [abhinab-choudhury/ShortWave](https://github.com/abhinab-choudhury/ShortWave) - "Shortwave, native to your pocket." The same URL shortener and analytics dashboard, packaged as a real Android app via Capacitor 8, with JWT-only auth and email-OTP sign-in so you never leave the app. (2 weeks ago)
+- [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) - Kotlin Multiplatform App |  Laundry Management System (LMS) (2 weeks ago)
 
 ## My latest projects
 
@@ -22,10 +22,10 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## Latest releases I’ve contributed to
 
-- [abhinab-choudhury/Crop-AI](https://github.com/abhinab-choudhury/Crop-AI) ([latest](https://github.com/abhinab-choudhury/Crop-AI/releases/tag/latest), 2 days ago) - Hackathon | SIH 2025 | SIH25030  | "AI-powered crop diagnosis, disease detection, and multilingual farming assistant - empowering farmers with real-time, offline-ready agricultural insights."
-- [run-llama/liteparse](https://github.com/run-llama/liteparse) ([node-v2.14.7](https://github.com/run-llama/liteparse/releases/tag/node-v2.14.7), 3 days ago) - A fast, helpful, and open-source document parser
-- [abhinab-choudhury/ShortWave](https://github.com/abhinab-choudhury/ShortWave) ([v2.0.0](https://github.com/abhinab-choudhury/ShortWave/releases/tag/v2.0.0), 1 week ago) - "Shortwave, native to your pocket." The same URL shortener and analytics dashboard, packaged as a real Android app via Capacitor 8, with JWT-only auth and email-OTP sign-in so you never leave the app.
-- [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) ([v1.1.0](https://github.com/abhinab-choudhury/Laundry-App/releases/tag/v1.1.0), 1 week ago) - Kotlin Multiplatform App |  Laundry Management System (LMS)
+- [abhinab-choudhury/Crop-AI](https://github.com/abhinab-choudhury/Crop-AI) ([latest](https://github.com/abhinab-choudhury/Crop-AI/releases/tag/latest), 3 days ago) - Hackathon | SIH 2025 | SIH25030  | "AI-powered crop diagnosis, disease detection, and multilingual farming assistant - empowering farmers with real-time, offline-ready agricultural insights."
+- [run-llama/liteparse](https://github.com/run-llama/liteparse) ([node-v2.14.7](https://github.com/run-llama/liteparse/releases/tag/node-v2.14.7), 4 days ago) - A fast, helpful, and open-source document parser
+- [abhinab-choudhury/ShortWave](https://github.com/abhinab-choudhury/ShortWave) ([v2.0.0](https://github.com/abhinab-choudhury/ShortWave/releases/tag/v2.0.0), 2 weeks ago) - "Shortwave, native to your pocket." The same URL shortener and analytics dashboard, packaged as a real Android app via Capacitor 8, with JWT-only auth and email-OTP sign-in so you never leave the app.
+- [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) ([v1.1.0](https://github.com/abhinab-choudhury/Laundry-App/releases/tag/v1.1.0), 2 weeks ago) - Kotlin Multiplatform App |  Laundry Management System (LMS)
 - [abhinab-choudhury/Top-Vs-Top](https://github.com/abhinab-choudhury/Top-Vs-Top) ([v1.0.0](https://github.com/abhinab-choudhury/Top-Vs-Top/releases/tag/v1.0.0), 3 months ago) - Top Vs Top Arena is a fast-paced spinning top battle game. Survive waves of enemy tops in a circular arena. Keep your spin alive to stay in the fight!
 
 ## My recent pull requests
