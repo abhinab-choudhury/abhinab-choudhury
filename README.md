@@ -38,11 +38,11 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## Recent stars
 
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users (today)
 - [abhinab-choudhury/codexpert](https://github.com/abhinab-choudhury/codexpert) - AI Assistant to solve. This is a Chrome extension built with React and TypeScript (1 week ago)
 - [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) - Kotlin Multiplatform App |  Laundry Management System (LMS) (1 week ago)
 - [abhinab-choudhury/Pizza-Shop](https://github.com/abhinab-choudhury/Pizza-Shop) - A full-stack pizza ordering platform built with a microservices architecture (1 week ago)
 - [abhinab-choudhury/Top-Vs-Top](https://github.com/abhinab-choudhury/Top-Vs-Top) - Top Vs Top Arena is a fast-paced spinning top battle game. Survive waves of enemy tops in a circular arena. Keep your spin alive to stay in the fight! (1 week ago)
-- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options (3 weeks ago)
 
 ## How to reach me
 
