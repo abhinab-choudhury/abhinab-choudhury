@@ -6,9 +6,9 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## What I’m currently working on
 
+- [abhinab-choudhury/Pizza-Shop](https://github.com/abhinab-choudhury/Pizza-Shop) - A full-stack pizza ordering platform built with a microservices architecture (today)
 - [abhinab-choudhury/portfolio](https://github.com/abhinab-choudhury/portfolio) - My Personal Portfolio (4 days ago)
 - [abhinab-choudhury/Crop-AI](https://github.com/abhinab-choudhury/Crop-AI) - Hackathon | SIH 2025 | SIH25030  | "AI-powered crop diagnosis, disease detection, and multilingual farming assistant - empowering farmers with real-time, offline-ready agricultural insights." (5 days ago)
-- [abhinab-choudhury/Pizza-Shop](https://github.com/abhinab-choudhury/Pizza-Shop) - A full-stack pizza ordering platform built with a microservices architecture (1 week ago)
 - [abhinab-choudhury/ShortWave](https://github.com/abhinab-choudhury/ShortWave) - "Shortwave, native to your pocket." The same URL shortener and analytics dashboard, packaged as a real Android app via Capacitor 8, with JWT-only auth and email-OTP sign-in so you never leave the app. (2 weeks ago)
 - [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) - Kotlin Multiplatform App |  Laundry Management System (LMS) (2 weeks ago)
 
