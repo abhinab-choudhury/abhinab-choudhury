@@ -38,11 +38,11 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## Recent stars
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (today)
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users (6 days ago)
 - [abhinab-choudhury/codexpert](https://github.com/abhinab-choudhury/codexpert) - AI Assistant to solve. This is a Chrome extension built with React and TypeScript (2 weeks ago)
 - [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) - Kotlin Multiplatform App |  Laundry Management System (LMS) (2 weeks ago)
 - [abhinab-choudhury/Pizza-Shop](https://github.com/abhinab-choudhury/Pizza-Shop) - A full-stack pizza ordering platform built with a microservices architecture (2 weeks ago)
-- [abhinab-choudhury/Top-Vs-Top](https://github.com/abhinab-choudhury/Top-Vs-Top) - Top Vs Top Arena is a fast-paced spinning top battle game. Survive waves of enemy tops in a circular arena. Keep your spin alive to stay in the fight! (2 weeks ago)
 
 ## How to reach me
 
