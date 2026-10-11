@@ -38,7 +38,7 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## Recent stars
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (6 days ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 week ago)
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users (1 week ago)
 - [abhinab-choudhury/codexpert](https://github.com/abhinab-choudhury/codexpert) - AI Assistant to solve. This is a Chrome extension built with React and TypeScript (3 weeks ago)
 - [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) - Kotlin Multiplatform App |  Laundry Management System (LMS) (3 weeks ago)
