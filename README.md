@@ -22,7 +22,7 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## Latest releases I’ve contributed to
 
-- [run-llama/liteparse](https://github.com/run-llama/liteparse) ([node-v2.15.1](https://github.com/run-llama/liteparse/releases/tag/node-v2.15.1), 1 week ago) - A fast, helpful, and open-source document parser
+- [run-llama/liteparse](https://github.com/run-llama/liteparse) ([docker-v2.16.0](https://github.com/run-llama/liteparse/releases/tag/docker-v2.16.0), today) - A fast, helpful, and open-source document parser
 - [abhinab-choudhury/Crop-AI](https://github.com/abhinab-choudhury/Crop-AI) ([latest](https://github.com/abhinab-choudhury/Crop-AI/releases/tag/latest), 2 weeks ago) - Hackathon | SIH 2025 | SIH25030  | "AI-powered crop diagnosis, disease detection, and multilingual farming assistant - empowering farmers with real-time, offline-ready agricultural insights."
 - [abhinab-choudhury/ShortWave](https://github.com/abhinab-choudhury/ShortWave) ([v2.0.0](https://github.com/abhinab-choudhury/ShortWave/releases/tag/v2.0.0), 1 month ago) - "Shortwave, native to your pocket." The same URL shortener and analytics dashboard, packaged as a real Android app via Capacitor 8, with JWT-only auth and email-OTP sign-in so you never leave the app.
 - [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) ([v1.1.0](https://github.com/abhinab-choudhury/Laundry-App/releases/tag/v1.1.0), 1 month ago) - Kotlin Multiplatform App |  Laundry Management System (LMS)
@@ -38,11 +38,11 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## Recent stars
 
+- [satwiksps/openorganizations](https://github.com/satwiksps/openorganizations) - Find your open source community. Explore organizations, program history, proposals and community resources across GSoC, LFX, SoB, Outreachy and more. (today)
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models (today)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 week ago)
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users (2 weeks ago)
 - [abhinab-choudhury/codexpert](https://github.com/abhinab-choudhury/codexpert) - AI Assistant to solve. This is a Chrome extension built with React and TypeScript (3 weeks ago)
-- [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) - Kotlin Multiplatform App |  Laundry Management System (LMS) (3 weeks ago)
 
 ## How to reach me
 
