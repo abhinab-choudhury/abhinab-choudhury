@@ -38,11 +38,11 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## Recent stars
 
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models (today)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 week ago)
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users (2 weeks ago)
 - [abhinab-choudhury/codexpert](https://github.com/abhinab-choudhury/codexpert) - AI Assistant to solve. This is a Chrome extension built with React and TypeScript (3 weeks ago)
 - [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) - Kotlin Multiplatform App |  Laundry Management System (LMS) (3 weeks ago)
-- [abhinab-choudhury/Pizza-Shop](https://github.com/abhinab-choudhury/Pizza-Shop) - A full-stack pizza ordering platform built with a microservices architecture (3 weeks ago)
 
 ## How to reach me
 
