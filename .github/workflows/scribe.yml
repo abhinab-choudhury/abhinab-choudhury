@@ -32,7 +32,7 @@ jobs:
 
       - name: Build Markscribe
         run: |
-          git clone --depth 1 --branch fix-graphql-resource-limits https://github.com/danielgatis/markscribe /tmp/markscribe
+          git clone --depth 1 --branch fix-graphql-resource-limits https://github.com/abhinab-choudhury/markscribe.git /tmp/markscribe
           go build -C /tmp/markscribe -o /tmp/markscribe/markscribe .
 
       - name: Generate README
