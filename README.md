@@ -12,14 +12,6 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 - [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) - Kotlin Multiplatform App |  Laundry Management System (LMS) (1 month ago)
 - [abhinab-choudhury/ShortWave](https://github.com/abhinab-choudhury/ShortWave) - "Shortwave, native to your pocket." The same URL shortener and analytics dashboard, packaged as a real Android app via Capacitor 8, with JWT-only auth and email-OTP sign-in so you never leave the app. (1 month ago)
 
-## My latest projects
-
-- [abhinab-choudhury/Laundry-App](https://github.com/abhinab-choudhury/Laundry-App) - Kotlin Multiplatform App |  Laundry Management System (LMS)
-- [abhinab-choudhury/Top-Vs-Top](https://github.com/abhinab-choudhury/Top-Vs-Top) - Top Vs Top Arena is a fast-paced spinning top battle game. Survive waves of enemy tops in a circular arena. Keep your spin alive to stay in the fight!
-- [abhinab-choudhury/WorkerQueue](https://github.com/abhinab-choudhury/WorkerQueue) - A Distributed Background Task Processing System
-- [abhinab-choudhury/Overleaf-App](https://github.com/abhinab-choudhury/Overleaf-App) - Unofficial Overleaf App
-- [abhinab-choudhury/sql](https://github.com/abhinab-choudhury/sql) - SQL - DB
-
 ## My recent pull requests
 
 - [Fixed #2608 -- Moved the site-wide banner above the page hero](https://github.com/django/djangoproject.com/pull/2901) on [django/djangoproject.com](https://github.com/django/djangoproject.com) (today)
@@ -31,3 +23,5 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 ## How to reach me
 
 - GitHub: https://github.com/abhinab-choudhury
+- Website: https://abhinab.tech
+- LinkedIn: https://www.linkedin.com/in/abhinab-choudhury
