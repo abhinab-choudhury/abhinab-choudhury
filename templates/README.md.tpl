@@ -9,11 +9,6 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-## My latest projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
 ## My recent pull requests
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
@@ -22,3 +17,5 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 ## How to reach me
 
 - GitHub: https://github.com/abhinab-choudhury
+- Website: https://abhinab.tech
+- LinkedIn: https://www.linkedin.com/in/abhinab-choudhury
