@@ -14,7 +14,7 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## My recent pull requests
 
-- [Fixed #2608 -- Moved the site-wide banner above the page hero](https://github.com/django/djangoproject.com/pull/2901) on [django/djangoproject.com](https://github.com/django/djangoproject.com) (today)
+- [Fixed #2608 -- Moved the site-wide banner above the page hero](https://github.com/django/djangoproject.com/pull/2901) on [django/djangoproject.com](https://github.com/django/djangoproject.com) (1 day ago)
 - [Add Jupyter notebook for cosine similarity model training](https://github.com/abhinab-choudhury/Movie/pull/6) on [abhinab-choudhury/Movie](https://github.com/abhinab-choudhury/Movie) (3 months ago)
 - [Model](https://github.com/abhinab-choudhury/Movie/pull/5) on [abhinab-choudhury/Movie](https://github.com/abhinab-choudhury/Movie) (3 months ago)
 - [Rotated page](https://github.com/run-llama/liteparse/pull/163) on [run-llama/liteparse](https://github.com/run-llama/liteparse) (5 months ago)
