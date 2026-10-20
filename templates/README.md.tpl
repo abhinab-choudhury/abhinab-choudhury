@@ -2,8 +2,6 @@
 
 I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer from India.
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhinab-choudhury&label=PROFILE+VIEWS)
-
 ## What I’m currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
