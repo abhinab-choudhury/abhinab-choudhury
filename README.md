@@ -12,8 +12,8 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## My recent pull requests
 
-- [fix: resolve build failures on Flutter 3.47.7 (Hive adapters, IconData final, pdfrx null-safety, file_picker v13)](https://github.com/anonfaded/Fadocx/pull/16) on [anonfaded/Fadocx](https://github.com/anonfaded/Fadocx) (3 days ago)
-- [Fixed #1171 -- Added a sponsors showcase to the homepage and sidebar](https://github.com/django/djangoproject.com/pull/2902) on [django/djangoproject.com](https://github.com/django/djangoproject.com) (6 days ago)
+- [fix: resolve build failures on Flutter 3.47.7 (Hive adapters, IconData final, pdfrx null-safety, file_picker v13)](https://github.com/anonfaded/Fadocx/pull/16) on [anonfaded/Fadocx](https://github.com/anonfaded/Fadocx) (4 days ago)
+- [Fixed #1171 -- Added a sponsors showcase to the homepage and sidebar](https://github.com/django/djangoproject.com/pull/2902) on [django/djangoproject.com](https://github.com/django/djangoproject.com) (1 week ago)
 - [Fixed #2608 -- Moved the site-wide banner above the page hero](https://github.com/django/djangoproject.com/pull/2901) on [django/djangoproject.com](https://github.com/django/djangoproject.com) (1 week ago)
 
 ## How to reach me
