@@ -4,8 +4,8 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## What I’m currently working on
 
+- [abhinab-choudhury/portfolio](https://github.com/abhinab-choudhury/portfolio) - My Personal Portfolio (today)
 - [abhinab-choudhury/ShortWave](https://github.com/abhinab-choudhury/ShortWave) - Shortwave, Native to your pocket | Andriod App | Web App (3 days ago)
-- [abhinab-choudhury/portfolio](https://github.com/abhinab-choudhury/portfolio) - My Personal Portfolio (3 days ago)
 - [abhinab-choudhury/Crop-AI](https://github.com/abhinab-choudhury/Crop-AI) - Hackathon | SIH 2025 | SIH25030  | "AI-powered crop diagnosis, disease detection, and multilingual farming assistant - empowering farmers with real-time, offline-ready agricultural insights." (3 days ago)
 - [django/djangoproject.com](https://github.com/django/djangoproject.com) - Source code to djangoproject.com (2 weeks ago)
 - [abhinab-choudhury/Pizza-Shop](https://github.com/abhinab-choudhury/Pizza-Shop) - A full-stack pizza ordering platform built with a microservices architecture (4 weeks ago)
