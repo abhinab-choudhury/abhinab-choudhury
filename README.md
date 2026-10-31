@@ -12,11 +12,11 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## My recent pull requests
 
+- [Sponser image scaling 2543](https://github.com/django/djangoproject.com/pull/2944) on [django/djangoproject.com](https://github.com/django/djangoproject.com) (today)
 - [github issure template updated](https://github.com/abhinab-choudhury/ShortWave/pull/15) on [abhinab-choudhury/ShortWave](https://github.com/abhinab-choudhury/ShortWave) (1 week ago)
 - [Dev: Add the ssh-server template with github-issue template](https://github.com/abhinab-choudhury/portfolio/pull/8) on [abhinab-choudhury/portfolio](https://github.com/abhinab-choudhury/portfolio) (1 week ago)
 - [github issue tempalted added](https://github.com/abhinab-choudhury/portfolio/pull/7) on [abhinab-choudhury/portfolio](https://github.com/abhinab-choudhury/portfolio) (1 week ago)
 - [fix: build issue realted to calander UI/UX](https://github.com/abhinab-choudhury/ShortWave/pull/13) on [abhinab-choudhury/ShortWave](https://github.com/abhinab-choudhury/ShortWave) (1 week ago)
-- [Dev](https://github.com/abhinab-choudhury/ShortWave/pull/12) on [abhinab-choudhury/ShortWave](https://github.com/abhinab-choudhury/ShortWave) (1 week ago)
 
 ## How to reach me
 
