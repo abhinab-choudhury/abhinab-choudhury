@@ -12,11 +12,11 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## My recent pull requests
 
+- [Add Nix flake for liteparse](https://github.com/run-llama/liteparse/pull/562) on [run-llama/liteparse](https://github.com/run-llama/liteparse) (today)
 - [feat: add Go language support for LiteParse](https://github.com/run-llama/liteparse/pull/533) on [run-llama/liteparse](https://github.com/run-llama/liteparse) (1 week ago)
 - [Sponser image scaling 2543](https://github.com/django/djangoproject.com/pull/2944) on [django/djangoproject.com](https://github.com/django/djangoproject.com) (1 week ago)
 - [github issure template updated](https://github.com/abhinab-choudhury/ShortWave/pull/15) on [abhinab-choudhury/ShortWave](https://github.com/abhinab-choudhury/ShortWave) (2 weeks ago)
 - [Dev: Add the ssh-server template with github-issue template](https://github.com/abhinab-choudhury/portfolio/pull/8) on [abhinab-choudhury/portfolio](https://github.com/abhinab-choudhury/portfolio) (2 weeks ago)
-- [github issue tempalted added](https://github.com/abhinab-choudhury/portfolio/pull/7) on [abhinab-choudhury/portfolio](https://github.com/abhinab-choudhury/portfolio) (2 weeks ago)
 
 ## How to reach me
 
