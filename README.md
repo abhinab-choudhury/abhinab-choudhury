@@ -4,15 +4,15 @@ I’m [**Abhinab Choudhury**](https://github.com/abhinab-choudhury), a developer
 
 ## What I’m currently working on
 
-- [abhinab-choudhury/portfolio](https://github.com/abhinab-choudhury/portfolio) - My Personal Portfolio (today)
-- [abhinab-choudhury/Crop-AI](https://github.com/abhinab-choudhury/Crop-AI) - Hackathon | SIH 2025 | SIH25030  | "AI-powered crop diagnosis, disease detection, and multilingual farming assistant - empowering farmers with real-time, offline-ready agricultural insights." (1 day ago)
-- [abhinab-choudhury/chat](https://github.com/abhinab-choudhury/chat) - Chat application with Agentic Capablity (4 days ago)
+- [abhinab-choudhury/portfolio](https://github.com/abhinab-choudhury/portfolio) - My Personal Portfolio (1 day ago)
+- [abhinab-choudhury/Crop-AI](https://github.com/abhinab-choudhury/Crop-AI) - Hackathon | SIH 2025 | SIH25030  | "AI-powered crop diagnosis, disease detection, and multilingual farming assistant - empowering farmers with real-time, offline-ready agricultural insights." (2 days ago)
+- [abhinab-choudhury/chat](https://github.com/abhinab-choudhury/chat) - Chat application with Agentic Capablity (5 days ago)
 - [abhinab-choudhury/ShortWave](https://github.com/abhinab-choudhury/ShortWave) - Shortwave, Native to your pocket | Andriod App | Web App (1 month ago)
 - [django/djangoproject.com](https://github.com/django/djangoproject.com) - Source code to djangoproject.com (1 month ago)
 
 ## My recent pull requests
 
-- [docs: refresh README for on-device architecture and aesthetics](https://github.com/abhinab-choudhury/Crop-AI/pull/6) on [abhinab-choudhury/Crop-AI](https://github.com/abhinab-choudhury/Crop-AI) (1 day ago)
+- [docs: refresh README for on-device architecture and aesthetics](https://github.com/abhinab-choudhury/Crop-AI/pull/6) on [abhinab-choudhury/Crop-AI](https://github.com/abhinab-choudhury/Crop-AI) (2 days ago)
 - [Add Nix flake for liteparse](https://github.com/run-llama/liteparse/pull/562) on [run-llama/liteparse](https://github.com/run-llama/liteparse) (2 weeks ago)
 - [feat: add Go language support for LiteParse](https://github.com/run-llama/liteparse/pull/533) on [run-llama/liteparse](https://github.com/run-llama/liteparse) (3 weeks ago)
 - [Sponser image scaling 2543](https://github.com/django/djangoproject.com/pull/2944) on [django/djangoproject.com](https://github.com/django/djangoproject.com) (3 weeks ago)
